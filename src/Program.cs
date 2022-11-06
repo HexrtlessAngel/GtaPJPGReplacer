@@ -45,6 +45,9 @@ namespace GtaPJPGReplacer
                 // Hello darkness my old friend
                 Console.WriteLine($"{e.GetType().Name}\n{e.Message}\n{e.StackTrace}");
             }
+
+            Console.WriteLine("Done! Press any key to exit...");
+            Console.ReadKey();
         }
     }
 }
