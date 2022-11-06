@@ -1,6 +1,6 @@
 # What the hell is this?
 
-This tool replaces any GTA V photo/selfie with any picture you want (Yes you can use this to make your own modded profile picture on social club)
+This tool replaces any GTA V photo/selfie with any picture you want (Yes you can use this to make your own modded profile picture on social club). I might continue to work on this, idk...
 
 # How to...
 
