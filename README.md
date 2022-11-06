@@ -10,4 +10,4 @@ This tool replaces any GTA V photo/selfie with any picture you want (Yes you can
 4. Copy PGTA5 file of choice to the directory of GtaPJPGReplacer executable
 5. Run the tool
 6. Copy/move the modified PGTA5 file back to you profile 
-7. Start up GTA V an done (You can upload to social club if you want but I do suggest you be careful, R*/T2 don't really like these kind of things....)
+7. Start up GTA V and done (You can upload to social club if you want but I do suggest you be careful, R*/T2 don't really like these kind of things....)
